@@ -5,6 +5,10 @@ body {
   text-align: center;
 }
 
+.imag {
+  border-radius: 50%;
+}
+
 .h {
 
   text-align: center;
